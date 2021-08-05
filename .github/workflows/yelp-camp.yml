@@ -1,4 +1,4 @@
-name: CI YelpCamp
+name: YelpCamp
 
 on:
   push:
