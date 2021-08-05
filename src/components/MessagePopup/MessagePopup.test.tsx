@@ -3,7 +3,7 @@ import { useEffect } from "react";
 /**
  * Imports test utils
  */
-import { render } from "@testing-library/react";
+import { render } from "../../utils";
 
 /**
  * Imports component
